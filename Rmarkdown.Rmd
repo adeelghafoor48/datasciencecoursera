@@ -6,7 +6,7 @@ output: pdf_document
 ---
 
 
-[link](https://github.com/jtleek/datasharing)
+[link]<https://github.com/jtleek/datasharing>
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
